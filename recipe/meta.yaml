@@ -1,4 +1,4 @@
-{% set version = "7.0.4" %}
+{% set version = "7.1.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/eulerr_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/eulerr/eulerr_{{ version }}.tar.gz
-  sha256: 1e3e438c1402c8b6b8adf34a00e812128c83aee661d4ff2b792e4b3836d4ca72
+  sha256: 9286ac29c0de4af63e5f20af4cc422336693cedd9159eb5418fdb9281657ffab
 
 build:
   number: 0

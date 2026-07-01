@@ -7,20 +7,24 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-eulerr-feedst
 About r-eulerr
 --------------
 
-Home: https://github.com/jolars/eulerr, https://jolars.github.io/eulerr/
+Home: https://jolars.github.io/eulerr/
 
-Package license: GPL-3.0-only
+Package license: MIT
 
 Summary: Generate area-proportional Euler diagrams using numerical optimization. An Euler diagram is a generalization of a Venn diagram, relaxing the criterion that all interactions need to be represented. Diagrams may be fit with ellipses and circles via a wide range of inputs and can be visualized in numerous ways.
+
+Development: https://github.com/jolars/eulerr
 
 About r-eulerr
 --------------
 
-Home: https://github.com/jolars/eulerr, https://jolars.github.io/eulerr/
+Home: https://jolars.github.io/eulerr/
 
-Package license: GPL-3.0-only
+Package license: MIT
 
 Summary: Generate area-proportional Euler diagrams using numerical optimization. An Euler diagram is a generalization of a Venn diagram, relaxing the criterion that all interactions need to be represented. Diagrams may be fit with ellipses and circles via a wide range of inputs and can be visualized in numerous ways.
+
+Development: https://github.com/jolars/eulerr
 
 Current build status
 ====================

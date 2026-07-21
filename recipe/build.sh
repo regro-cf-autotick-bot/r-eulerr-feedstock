@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# let R determine build target
+unset CARGO_BUILD_TARGET
+
 export DISABLE_AUTOBREW=1
 # shellcheck disable=SC2086
 ${R} CMD INSTALL --build . ${R_ARGS}

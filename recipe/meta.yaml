@@ -35,11 +35,10 @@ requirements:
     - {{ posix }}make
     - {{ posix }}sed               # [win]
     - {{ posix }}coreutils         # [win]
+    - xz-tools                     # [win]
     - {{ posix }}zip               # [win]
   host:
     - r-base
-    - libblas
-    - liblapack
   run:
     - r-base
 
